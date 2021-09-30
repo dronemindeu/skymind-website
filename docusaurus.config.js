@@ -1,11 +1,11 @@
 module.exports = {
 	title: 'SkyMind',
 	tagline: 'Low coding complete functional web applications',
-	url: 'https://ykhedar.github.io',
+	url: 'http://sky-mind.eu',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	favicon: 'icon/favicon.ico',
-	organizationName: 'ykhedar',
+	organizationName: 'SKYMIND',
 	projectName: 'skymind-website',
 	themeConfig: {
 		navbar: {
