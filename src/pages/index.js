@@ -110,7 +110,7 @@ function Home() {
             </Link>
             <Link
               className={clsx('margin-left--md', styles.indexTryMeButton)}
-              to="http://sky-mind.eu">
+              to="http://dashboard.sky-mind.eu">
               Online Demo
             </Link>
           </div>

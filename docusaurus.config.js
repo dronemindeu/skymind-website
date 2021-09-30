@@ -1,12 +1,13 @@
 module.exports = {
 	title: 'SkyMind',
 	tagline: 'Low coding complete functional web applications',
-	url: 'http://sky-mind.eu',
+	url: 'https://sky-mind.eu',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	favicon: 'icon/favicon.ico',
 	organizationName: 'SKYMIND',
 	projectName: 'skymind-website',
+	baseUrl: '/',
 	themeConfig: {
 		navbar: {
 			title: '',
@@ -20,13 +21,13 @@ module.exports = {
 				{
 					alt: 'Schedule Meeting',
 					href: 'https://calendly.com/skymind/demo',
-                    className: 'header-calender-link',
+					className: 'header-calender-link',
 					position: 'right'
 				},
 				{
 					alt: 'Github repository',
 					href: 'https://github.com/ykhedar/',
-                    className: 'header-github-link',
+					className: 'header-github-link',
 					position: 'right'
 				},
 			],
@@ -66,7 +67,7 @@ module.exports = {
 					feedOptions: {
 						type: 'all',
 						language: 'en',
-						copyright: `Copyright © ${new Date().getFullYear()} Skymind, U.G.`,
+						copyright: `Copyright © ${new Date().getFullYear()} Skymind`,
 					},
 				},
 				theme: {
