@@ -4,16 +4,16 @@
         <title>SkyMind Blog</title>
         <link>https://sky-mind.eu/blog</link>
         <description>SkyMind Blog</description>
-        <lastBuildDate>Thu, 30 Sep 2021 17:55:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2022 16:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
-        <copyright>Copyright © 2021 Skymind</copyright>
+        <copyright>Copyright © 2022 Skymind</copyright>
         <item>
             <title><![CDATA[Blog 1]]></title>
             <link>https://sky-mind.eu/blog/blog1</link>
             <guid>Blog 1</guid>
-            <pubDate>Thu, 30 Sep 2021 17:55:07 GMT</pubDate>
+            <pubDate>Sun, 15 May 2022 16:08:51 GMT</pubDate>
             <description><![CDATA[<img style={{ width "10% 25%", padding: "50" }}]]></description>
         </item>
     </channel>

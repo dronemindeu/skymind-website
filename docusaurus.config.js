@@ -18,23 +18,39 @@ module.exports = {
 			},
 			hideOnScroll: true,
 			items: [
-				{
-					alt: 'Schedule Meeting',
-					href: 'https://calendly.com/skymind/demo',
-					className: 'header-calender-link',
-					position: 'right'
-				},
+				//{ to: 'blog', label: 'Use Cases', position: 'left'},
 				{
 					alt: 'Github repository',
 					href: 'https://github.com/ykhedar/',
 					className: 'header-github-link',
 					position: 'right'
 				},
+				{ to: 'blog', label: 'Blog', position: 'right'},
+				{ to: 'https://dashboard.sky-mind.eu', label: 'Login', position: 'right'},
+
 			],
 		},
 		footer: {
 			style: 'dark',
 			links: [
+				{
+					title: 'More',
+					items: [
+						{
+							label: 'GSD Calculator',
+							href: 'https://gsd.sky-mind.eu',
+						},
+						{
+							label: 'Online SORA',
+							href: 'https://sora.sky-mind.eu',
+						},
+						{
+							label: 'Feature Requests',
+							href: 'https://sora.sky-mind.eu',
+						},
+						
+					],
+				},
 				{
 					title: 'Contact',
 					items: [
@@ -42,10 +58,44 @@ module.exports = {
 							label: 'E-Mail',
 							href: 'mailto:khedar@sky-mind.eu',
 						},
+						{
+							label: 'LinkedIn',
+							href: 'https://www.linkedin.com/company/skymindeu',
+						},
+						{
+							label: 'Slack',
+							href: 'https://join.slack.com/t/skymindtalk/shared_invite/zt-195qkbo1v-t8ddgESA3vROiqfQNXFyaw',
+						},
+						{
+							label: 'Discord',
+							href: 'https://discord.gg/H9Jcjxng',
+						},
+
+					],
+				},
+				{
+					title: 'Legal',
+					items: [
+						{
+							to: 'docs/privacy',
+							label: 'Privacy',
+						},
+						{
+							to: 'docs/impressum',
+							label: 'Impressum',
+						},
+						{
+							html: `
+								<a href="https://www.braunschweig.de/wirtschaft_wissenschaft/gruenderzentren/start_up_zentrum_mobilitaet.php" target="_blank" rel="noreferrer noopener" aria-label="Funder by MOIN">
+								  <img src="img/MOIN_Logo.jpg" alt="Funded MOIN" width="294" height="127" />
+								</a>
+							  `,
+						},
+						
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} Skymind`,
+			copyright: `Copyright © ${new Date().getFullYear()} Skymind. Built with Docusaurus. `,
 		},
 	},
 	presets: [
