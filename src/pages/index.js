@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/cloud_api.jpg',
     description: (
       <>
-        Open-source API for automating your UAV workflows. Control major UAV types,
+        gRPC/REST APIs for automating your existing UAV workflows. Control major UAV types,
         and analyse application data from the comfort of your browser.
       </>
     ),
@@ -98,9 +98,9 @@ function Home() {
               className={styles.heroLogo}
               src={useBaseUrl('img/skymind.png')}
             />
-            We enable{' '}
-            <span className={styles.heroProjectKeywords}>cloud-based</span>{' '}
-            <span className={styles.heroProjectKeywords}>automated</span> drone operations.{' '}
+            Automated{' '}
+            <span className={styles.heroProjectKeywords}>drone operations</span>{' '}
+            <span className={styles.heroProjectKeywords}>and</span> fleet management.{' '}
           </h1>
           <div className={styles.indexCtas}>
             <Link

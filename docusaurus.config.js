@@ -46,7 +46,7 @@ module.exports = {
 						},
 						{
 							label: 'Feature Requests',
-							href: 'https://sora.sky-mind.eu',
+							href: 'https://discuss.sky-mind.eu',
 						},
 						
 					],
