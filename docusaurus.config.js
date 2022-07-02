@@ -1,20 +1,20 @@
 module.exports = {
 	title: 'SkyMind',
 	tagline: 'Low coding complete functional web applications',
-	url: 'https://sky-mind.eu',
+	url: 'https://autrik.com',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	favicon: 'icon/favicon.ico',
-	organizationName: 'SKYMIND',
-	projectName: 'skymind-website',
+	organizationName: 'AUTRIK',
+	projectName: 'autrik-website',
 	baseUrl: '/',
 	themeConfig: {
 		navbar: {
 			title: '',
 			logo: {
-				alt: 'SKYMIND',
-				src: 'img/logo.png',
-				// srcDark: 'img/logo white.svg'
+				alt: 'AUTRIK',
+				src: 'img/autrik_logo_transparent_background.png',
+				srcDark: 'img/autrik_white_logo_transparent_background.png'
 			},
 			hideOnScroll: true,
 			items: [
@@ -26,7 +26,7 @@ module.exports = {
 					position: 'right'
 				},
 				{ to: 'blog', label: 'Blog', position: 'right'},
-				{ to: 'https://dashboard.sky-mind.eu', label: 'Login', position: 'right'},
+				{ to: 'https://autrik.com/dashboard', label: 'Login', position: 'right'},
 
 			],
 		},
@@ -38,15 +38,15 @@ module.exports = {
 					items: [
 						{
 							label: 'GSD Calculator',
-							href: 'https://gsd.sky-mind.eu',
+							href: 'https://autrik.com/gsd-calculator',
 						},
 						{
 							label: 'Online SORA',
-							href: 'https://sora.sky-mind.eu',
+							href: 'https://autrik.com/online-sora',
 						},
 						{
-							label: 'Feature Requests',
-							href: 'https://discuss.sky-mind.eu',
+							label: 'Report Issue',
+							href: 'mailto:yogesh@autrik.com',
 						},
 						
 					],
@@ -56,11 +56,11 @@ module.exports = {
 					items: [
 						{
 							label: 'E-Mail',
-							href: 'mailto:khedar@sky-mind.eu',
+							href: 'mailto:yogesh@autrik.com',
 						},
 						{
 							label: 'LinkedIn',
-							href: 'https://www.linkedin.com/company/skymindeu',
+							href: 'https://www.linkedin.com/company/autrikeu',
 						},
 						{
 							label: 'Slack',
@@ -95,7 +95,7 @@ module.exports = {
 					],
 				},
 			],
-			copyright: `Copyright © ${new Date().getFullYear()} Skymind. Built with Docusaurus. `,
+			copyright: `Copyright © ${new Date().getFullYear()} AUTRIK. Built with Docusaurus. `,
 		},
 	},
 	presets: [
@@ -117,7 +117,7 @@ module.exports = {
 					feedOptions: {
 						type: 'all',
 						language: 'en',
-						copyright: `Copyright © ${new Date().getFullYear()} Skymind`,
+						copyright: `Copyright © ${new Date().getFullYear()} AUTRIK`,
 					},
 				},
 				theme: {

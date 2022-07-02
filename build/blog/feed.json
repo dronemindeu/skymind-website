@@ -1,13 +1,13 @@
 {
     "version": "https://jsonfeed.org/version/1",
     "title": "SkyMind Blog",
-    "home_page_url": "https://sky-mind.eu/blog",
+    "home_page_url": "https://autrik.com/blog",
     "description": "SkyMind Blog",
     "items": [
         {
             "id": "/blog1",
             "content_html": "<p>Hi</p>",
-            "url": "https://sky-mind.eu/blog/blog1",
+            "url": "https://autrik.com/blog/blog1",
             "title": "UAV Applications",
             "summary": "Hi",
             "date_modified": "2021-04-24T22:15:23.000Z",

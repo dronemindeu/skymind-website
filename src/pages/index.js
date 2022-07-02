@@ -96,7 +96,7 @@ function Home() {
             <img
               alt="SkyMind logo"
               className={styles.heroLogo}
-              src={useBaseUrl('img/skymind.png')}
+              src={useBaseUrl('img/title.JPG')}
             />
             Automated{' '}
             <span className={styles.heroProjectKeywords}>drone operations</span>{' '}
@@ -110,7 +110,7 @@ function Home() {
             </Link>
             <Link
               className={clsx('margin-left--md', styles.indexTryMeButton)}
-              to="http://dashboard.sky-mind.eu">
+              to="http://autrik.com/dashboard">
               Online Demo
             </Link>
           </div>

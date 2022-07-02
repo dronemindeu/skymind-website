@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://sky-mind.eu/blog</id>
+    <id>https://autrik.com/blog</id>
     <title>SkyMind Blog</title>
     <updated>2021-04-24T22:15:23.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://sky-mind.eu/blog"/>
+    <link rel="alternate" href="https://autrik.com/blog"/>
     <subtitle>SkyMind Blog</subtitle>
-    <icon>https://sky-mind.eu/icon/favicon.ico</icon>
-    <rights>Copyright © 2022 Skymind</rights>
+    <icon>https://autrik.com/icon/favicon.ico</icon>
+    <rights>Copyright © 2022 AUTRIK</rights>
     <entry>
         <title type="html"><![CDATA[UAV Applications]]></title>
         <id>/blog1</id>
-        <link href="https://sky-mind.eu/blog/blog1"/>
+        <link href="https://autrik.com/blog/blog1"/>
         <updated>2021-04-24T22:15:23.000Z</updated>
         <summary type="html"><![CDATA[Hi]]></summary>
         <content type="html"><![CDATA[<p>Hi</p>]]></content>

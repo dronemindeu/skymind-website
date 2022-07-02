@@ -9,7 +9,7 @@ module.exports = {
   docs: [
     {
       type: 'category',
-      label: 'SkyMind',
+      label: 'Autrik',
       collapsed: false,
       items: [
         'intro',

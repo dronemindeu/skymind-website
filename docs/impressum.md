@@ -5,29 +5,23 @@ sidebar_label: Impressum
 slug: /impressum
 ---
 
-**Angaben gemäß § 5 TMG**  
-Yogesh Khedar  
-Skymind  
-Pappelallee 2  
-38110 Braunschweig  
-Deutschland  
+<h1>Site Notice</h1>
 
-**Kontakt**  
-Telefon: +49(0) 176 - 8785 2185  
-E-Mail: khedar[at]sky-mind.eu  
+<h2>Information pursuant to Sect. 5 German Telemedia Act (TMG)</h2>
+<p>Yogesh Khedar<br />
+Autrik<br />
+Pappelallee 2<br />
+38110 Braunschweig</p>
 
-**Redaktionell verantwortlich**  
-Yogesh Khedar  
-Pappelallee 2  
-38110 Braunschweig  
-Deutschland  
-  
-**EU-Streitschlichtung**  
-Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit:  
+<h2>Contact</h2>
+<p>Phone: +49 176 87 852185<br />
+E-mail: yogesh@autrik.com</p>
 
-https://ec.europa.eu/consumers/odr   
+<h2>Person responsible for editorial</h2>
+<p>Yogesh Khedar</p>
 
-Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle / Universalschlichtungsstelle teilzunehmen.  
+<h2>EU dispute resolution</h2>
+<p>The European Commission provides a platform for online dispute resolution (ODR): <a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer">https://ec.europa.eu/consumers/odr/</a>.<br /> Our e-mail address can be found above in the site notice.</p>
 
-**Dieses Impressum gilt auch für folgende Social Media Profile:**  
-**LinkedIn: https://www.linkedin.com/company/skymindeu**  
+<h2>Dispute resolution proceedings in front of a consumer arbitration board</h2>
+<p>We are not willing or obliged to participate in dispute resolution proceedings in front of a consumer arbitration board.</p>
