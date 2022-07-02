@@ -1,13 +1,12 @@
 module.exports = {
-	title: 'SkyMind',
-	tagline: 'Low coding complete functional web applications',
+	title: 'Autrik',
+	tagline: 'Automate and Manage Drone Fleets',
 	url: 'https://autrik.com',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	favicon: 'icon/favicon.ico',
 	organizationName: 'AUTRIK',
 	projectName: 'autrik-website',
-	baseUrl: '/',
 	themeConfig: {
 		navbar: {
 			title: '',
